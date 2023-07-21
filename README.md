@@ -1,4 +1,4 @@
-## The wrapper around FormData to brind typesafety based on Fluent interface (method chaining).
+## The wrapper around FormData to bring typesafety based on Fluent interface (method chaining).
 
 ### Problem
 
